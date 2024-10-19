@@ -1,4 +1,4 @@
-describe('template spec', () => {
+describe('Postagem', () => {
   it('passes', () => {
     cy.visit('localhost:5173/')
     cy.get('[data-qa="profile-box"]')
